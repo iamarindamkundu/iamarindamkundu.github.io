@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-
+An enthusiastic, quick learner and team player with good problem-solving skills, positive thinking and dedication. I would like to establish myself as a key resource in the organization that offers challenging assignments and good growth opportunities, with advanced technologies. Currently, I have 4+ years of experience in Salesforce. Some of my areas of interest are customisation on Force.com platform using APEX, Lightning web components, Salesforce DX, Integeration with external systems, Streaming API.
 
 ---
 
